@@ -5,6 +5,6 @@ Name: Joy Sarkar
 
 ID: UG02-47-18-003
 
-Email: joysarkar39@gmail.com
+Email: joysarker39@gmail.com
 
 Batch: 47
