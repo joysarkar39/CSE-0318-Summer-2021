@@ -1,0 +1,19 @@
+pre .cljs-bottom-right-widget {
+    position: absolute;
+    top: 5em;
+}
+
+.border_padding{
+	padding: 10px;
+}
+
+
+.demo-card-square.mdl-card {
+  width: 320px;
+  height: 320px;
+}
+.demo-card-square > .mdl-card__title {
+  color: #fff;
+  background:
+    url('https://getmdl.io/assets/demos/dog.png') bottom right 15% no-repeat #46B6AC;
+}

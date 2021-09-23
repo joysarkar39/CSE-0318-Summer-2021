@@ -1,0 +1,35 @@
+body {
+	background-color: #e6e6e4;
+	color: rgba(0,0,0,.54);
+}
+
+h1, h2, h3, h4, h5 {
+	color: rgba(0,0,0,.54);
+}
+
+.mdl-layout__drawer-button {
+        margin: 16px 12px;
+        background-color: rgba(0,0,0,0.5);
+      }
+
+a {
+  text-decoration: none;
+  color: #34819b;
+}
+/*Not loggedin message card style*/
+.demo-card-wide.mdl-card {
+  width: 512px;
+}
+.demo-card-wide > .mdl-card__title {
+  color: #fff;
+  height: 176px;
+  background: url('../img/banner.png') center / cover;
+  -webkit-filter: blur(5px);
+  -moz-filter: blur(5px);
+  -o-filter: blur(5px);
+  -ms-filter: blur(5px);
+  filter: blur(5px);
+}
+.demo-card-wide > .mdl-card__menu {
+  color: #fff;
+}

@@ -1,0 +1,1 @@
+Prism.hooks.add('complete', CodeLine.load);
